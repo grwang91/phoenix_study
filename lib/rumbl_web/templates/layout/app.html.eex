@@ -10,7 +10,7 @@
   </head>
   <body>
     <header>
-      # authentication/listings/rumbl/lib/rumbl_web/templates/layout/app.change1.html.eex
+
       <section class="container">
         <nav role="navigation">
           <ul>
